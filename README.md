@@ -1,19 +1,17 @@
-# diskpart-repair
-Repairing a corrupted removable disk using diskpart
-
 
 <h1> How to Use Diskpart to Repair a Corrupted Removable Drive </h1>
 
 
 <h2>Project</h2>
+
 If your USB drive or external hard drive isn’t working correctly, you can use Diskpart, a command-line tool, to repair it. Follow the steps below to clean, format, and restore your drive using Diskpart.
 
-⚠️ Important: This process will erase all data on the drive. Make sure to back up any important files before proceeding.
+⚠️Important: This process will erase all data on the drive. Make sure to back up any important files before proceeding.⚠️
 
 
 <h2>Utilities Used</h2>
 
-- <b>Flash drive, Diskpart</b> 
+- <b>USB Drive, Diskpart</b> 
 
 
 <h2>Environments Used </h2>
